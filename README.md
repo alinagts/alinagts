@@ -7,5 +7,5 @@
 <code>🧑‍💻 Languages: JavaScript </code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: @alina81g(https://telegram.me/your-nikname)</code>
-<code>📫 godovanetsalina@gmail.com(mailto:your-email)</code>
+<code>💬 telegram: [@alina81g](https://telegram.me/your-nikname)</code>
+<code>📫 godovanetsalina@gmail.com</code>
